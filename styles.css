@@ -1,0 +1,27 @@
+html {
+    background-color: black;
+    color: magenta;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+
+}
+
+ #Aden{
+    text-align: center;
+    color: purple;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+.John{
+    line-height: normal;
+    border-color: springgreen;
+    word-spacing: 10px;
+    border-style: groove;
+    border-width: thick;
+    
+}
+
+
